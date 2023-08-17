@@ -9,8 +9,8 @@ Former paster
 - JavaScript
 
 ## Skills
-- Back end (more than)
-- Front end
+- Back end
+- Front end (more than back end)
 
 # Languages
 - pt_BR 🇧🇷
